@@ -1,0 +1,10 @@
+{
+  "android_pixel": {
+    "platformName": "Android",
+    "platformVersion": "11.0",
+    "deviceName": "pixel_xl",
+    "appPackage": "codepath.apps.demointroandroid",
+    "appActivity": "codepath.apps.demointroandroid.DemoSelector",
+    "automationName": "UiAutomator2"
+  }
+}
